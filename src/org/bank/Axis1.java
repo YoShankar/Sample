@@ -9,7 +9,11 @@ public class Axis1 extends BankInfo {
 		Axis1 a = new Axis1();
 		a.deposit();
 		
+<<<<<<< HEAD
+		System.out.println("Hi Jai");
+=======
 		System.out.println("hi Shankar");
+>>>>>>> e40446dcca9109444274e5ac818efe237e429156
 	}
 	
 
