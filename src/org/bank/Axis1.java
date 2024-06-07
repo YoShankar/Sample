@@ -8,6 +8,8 @@ public class Axis1 extends BankInfo {
 	public static void main(String[] args) {
 		Axis1 a = new Axis1();
 		a.deposit();
+		
+		System.out.println("hi Shankar");
 	}
 	
 
